@@ -75,21 +75,21 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://www.facebook.com/AkyildizKazim">
+                <a title="facebook" href="https://www.facebook.com/AkyildizKazim" target="_blank">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="linkedin" href="https://www.linkedin.com/in/kazim-akyildiz">
+                <a title="linkedin" href="https://www.linkedin.com/in/kazim-akyildiz" target="_blank">
                   <img
                     src={linkedin}
                     alt="linkedin"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com/akyildizkazim">
+                <a title="twitter" href="https://twitter.com/akyildizkazim" target="_blank">
                   <img
                     className="fas fa-lg"
                     src={twitter}
