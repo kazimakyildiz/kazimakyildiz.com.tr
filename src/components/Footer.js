@@ -97,7 +97,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://www.instagram.com/kazim_akyildiz/">
+                <a title="instagram" href="https://www.instagram.com/kazim_akyildiz/ target="_blank>
                   <img
                     src={instagram}
                     alt="Instagram"
