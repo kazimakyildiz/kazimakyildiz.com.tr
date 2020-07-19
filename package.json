@@ -31,7 +31,7 @@
     "react-helmet": "^6.0.0",
     "uuid": "^7.0.0"
   },
-  "keywords": [
+  "keywords": [ 
     "gatsby"
   ],
   "license": "MIT",
