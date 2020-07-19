@@ -6,7 +6,7 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import linkedin from '../img/social/linkedin.svg'
-import ka-white from '../img/social/ka-white.svg'
+import kawhite from '../img/social/ka-white.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
-            src={ka-white}
+            src={kawhite}
             alt="Kaldi"
             style={{ width: '42em', height: '30em' }}
           />
