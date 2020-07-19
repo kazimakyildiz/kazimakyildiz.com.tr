@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
-import kanav from '../img/social/kanav.svg'
+import kanav from '../img/social/ka_nav.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
