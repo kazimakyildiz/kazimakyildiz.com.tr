@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Kazım Akyıldız | Performans Pazarlaması',
     description:
-      'Adwords ve Facebook reklam araçlarındaki yenilikleri ve kendi işimi kolaylaştıran araçları ve deneyimlerimi paylaşıyorum.',
+      'Google Ads ve Facebook Ads ve diğer reklam platformlarındaki yenilikleri ve kendi işimi kolaylaştıran araçları ve deneyimlerimi paylaşıyorum.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
