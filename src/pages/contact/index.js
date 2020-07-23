@@ -109,8 +109,6 @@ export default class Index extends React.Component {
             </div>
           </div>
         </section>
-        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-        <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="tr_TR" data-type="horizontal" data-theme="dark" data-vanity="kazim-akyildiz"><a class="LI-simple-link" href='https://tr.linkedin.com/in/kazim-akyildiz?trk=profile-badge'>Kazım Akyıldız</a></div>
       </Layout>
     )
   }
