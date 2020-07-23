@@ -7,7 +7,7 @@ export default () => (
       <div className="container">
         <div className="content">
           <h1>Mesajınız için Teşekkürler!</h1>
-          <p>En Kısa Sürede Dönüş YApmaya Çalışacağım</p>
+          <p>En Kısa Sürede Dönüş Yapmaya Çalışacağım</p>
         </div>
       </div>
     </section>
