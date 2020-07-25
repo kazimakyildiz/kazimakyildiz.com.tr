@@ -63,11 +63,13 @@ export const IndexPageTemplate = ({
           {subheading}
         </h3>
       </div>
-      <h1>
+    </div>
+    <h1>
+
+
 
         boşluk
       </h1>
-    </div>
                    <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
