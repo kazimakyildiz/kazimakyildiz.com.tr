@@ -68,7 +68,7 @@ export const IndexPageTemplate = ({
 
 
 
-        boşluk
+        
       </h1>
                    <BlogRoll />
                   <div className="column is-12 has-text-centered">
