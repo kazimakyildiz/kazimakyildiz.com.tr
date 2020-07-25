@@ -14,7 +14,7 @@
 	[plugins.inputs]
 
 	# The base url of your site (optional, default = main URL set in Netlify)
-	baseUrl = "https://www.kazimakyildiz.com.tr"
+	baseUrl = "https://kazimakyildiz.com.tr"
 
 	# Path to the sitemap URL (optional, default = /sitemap.xml)
 	sitemapPath = "/sitemap.xml"
