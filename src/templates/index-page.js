@@ -56,7 +56,7 @@ export const IndexPageTemplate = ({
               'rgb(0, 0, 139) 0.5rem 0px 0px, rgb(0, 0, 139) -0.5rem 0px 0px',
             backgroundColor: 'rgb(0, 0, 139)',
             color: 'white',
-            lineHeight: '1',
+            lineHeight: '3',
             padding: '1em',
           }}
         >
@@ -64,9 +64,9 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-                  <h1>
+                  <h3>
                     Son Yazılar
-                  </h1>
+                  </h3>
                    <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
