@@ -64,6 +64,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
+    <h3>
                     En Son Yazılar
                   </h3>
                   <BlogRoll />
