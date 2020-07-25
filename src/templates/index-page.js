@@ -64,6 +64,8 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
+
+    
                   <h2>
                     En Son Yazılar
                   </h2>
