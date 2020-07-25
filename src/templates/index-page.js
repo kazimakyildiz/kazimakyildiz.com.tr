@@ -64,7 +64,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <h3>
+                  <h3>
                     En Son Yazılar
                   </h3>
                   <BlogRoll />
@@ -73,13 +73,6 @@ export const IndexPageTemplate = ({
                       Tüm Yazılar
                     </Link>
                   </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
   </div>
 )
 
