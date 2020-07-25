@@ -64,7 +64,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-                  <h3>
+                  <h3 style="color:red;font-size:40px;">
                     En Son Yazılar
                   </h3>
                    <BlogRoll />
