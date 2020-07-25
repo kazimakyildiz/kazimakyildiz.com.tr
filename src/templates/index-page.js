@@ -50,7 +50,7 @@ export const IndexPageTemplate = ({
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-10-widescreen"
           style={{
             boxShadow:
               'rgb(0, 0, 139) 0.5rem 0px 0px, rgb(0, 0, 139) -0.5rem 0px 0px',
@@ -64,7 +64,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-                  <h3 style="color:red;font-size:40px;">
+                  <h3>
                     En Son Yazılar
                   </h3>
                    <BlogRoll />
