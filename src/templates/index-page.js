@@ -64,12 +64,12 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <h1>
+    
 
-                                    Son Yazılar
 
-        
-      </h1>
+
+
+    
                    <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
