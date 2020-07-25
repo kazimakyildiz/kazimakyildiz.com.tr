@@ -67,8 +67,8 @@ export const IndexPageTemplate = ({
                   <h3>
                     En Son Yazılar
                   </h3>
-                  <BlogRoll />
-                  <div className="column is-2 has-text-centered">
+                   <BlogRoll />
+                  <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
                       Tüm Yazılar
                     </Link>
