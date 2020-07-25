@@ -24,3 +24,5 @@
 		"google",
 		"bing",
 	]
+	[[plugins]]
+package = "netlify-plugin-image-optim"
