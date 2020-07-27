@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Nasıl Youtube Kanalı Google analytics'e Bağlanır
+title: Nasıl Youtube Kanalı Google Analytics'e Bağlanır
 date: 2020-07-27T17:32:28.462Z
 description: Youtube kanalını Google Analytics'e nasıl bağlabileceğini adımlarıyla yazdım.
 featuredpost: true
