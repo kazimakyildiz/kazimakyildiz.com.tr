@@ -7,7 +7,8 @@
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
   publish = "public"
-
+[build]
+  publish = "public"
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
 
