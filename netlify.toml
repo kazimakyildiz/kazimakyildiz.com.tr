@@ -13,5 +13,6 @@
 package = "netlify-plugin-image-optim"
 [[plugins]]
   package = "netlify-plugin-algolia-index"
-  
+  [plugins.inputs]
+      exclude = ['''^\/admin.*''', '''^\/search.*''', '/404.html']
 	
