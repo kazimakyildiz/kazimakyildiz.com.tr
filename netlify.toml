@@ -8,6 +8,7 @@
   YARN_FLAGS = "--no-ignore-optional"
   publish = "public"
 
+[build]
 publish = "public"
 ignore = "(exit 1)"
 
