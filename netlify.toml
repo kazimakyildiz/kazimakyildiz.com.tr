@@ -8,6 +8,7 @@
   YARN_FLAGS = "--no-ignore-optional"
   publish = "public"
 
+[build]
 publish = "public"
 ignore = "(exit 1)"
 
@@ -25,7 +26,7 @@ package = "../"
   providers = [
     "google",
     "bing",
-    "yandex"
+    
   ]
 
 [[plugins]]
