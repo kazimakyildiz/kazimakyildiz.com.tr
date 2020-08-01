@@ -7,6 +7,8 @@ featuredpost: false
 featuredimage: /img/1.png
 tags:
   - facebook ads
+  - Facebook form reklam
+  - zapier
 ---
 ![Facebook Form Reklamalarının Maile İletilmesi](/img/1.png "Facebook Form Reklamalarının Maile İletilmesi")
 
