@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Nasıl Google Analytics UTM Oluşturulur?
+title: Nasıl Google Analytics İçin UTM Oluşturulur?
 date: 2020-08-03T13:51:00.630Z
 description: UTM nedir? Google Analytics için UTM oluşturulması.
 featuredpost: true
