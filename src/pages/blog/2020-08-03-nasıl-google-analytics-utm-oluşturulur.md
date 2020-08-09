@@ -4,7 +4,7 @@ title: Nasıl Google Analytics İçin UTM Oluşturulur?
 date: 2020-08-03T13:51:00.630Z
 description: UTM nedir? Google Analytics için UTM oluşturulması.
 featuredpost: true
-featuredimage: /img/google-url-oluşturucu.png
+featuredimage: /img/google-url-oluşturucu.png
 tags:
   - google analytics umm
   - utm nedir
