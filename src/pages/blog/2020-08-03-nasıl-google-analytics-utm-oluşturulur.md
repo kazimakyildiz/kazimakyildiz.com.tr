@@ -24,7 +24,7 @@ Reklamınızda (ör. bir web reklamında veya e-postada) bir URL bulunuyorsa bu 
 
 Eğer Google  Ads reklamları kullanıyorsanız Google Analytics ile Google Ads'i bağlanırsa otomatik  olarak algılar ve değerler Google Analytics'eayrıca UTM gerek yoktur.
 
-![google analytics utm oluşturucu](/img/googl-analytics-utm-oluşturma-sayfası.png "google analytics utm oluşturucu")
+![google analytics utm oluşturucu](/img/googl-analytics-utm-oluşturma-sayfası.png "google analytics utm oluşturucu")
 
 Örnek:
 
@@ -34,7 +34,7 @@ Bu konuda hem**[Google URL](https://ga-dev-tools.appspot.com/campaign-url-builde
 
 ## Facebook UTM Oluşturucu
 
-![Facebook UTM oluşturucu](/img/facebook-url-oluşturucu.png "Facebook UTM oluşturucu")
+![Facebook UTM oluşturucu](/img/facebook-url-oluşturucu.png "Facebook UTM oluşturucu")
 
 ## Google Analytics'ten UTM Kampanyaları Görüntüleme
 
