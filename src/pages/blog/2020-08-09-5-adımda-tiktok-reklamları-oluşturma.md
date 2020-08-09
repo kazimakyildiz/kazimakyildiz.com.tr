@@ -9,7 +9,7 @@ tags:
   - dijital pazarlama
   - ppc
   - tiktok ads
-  - tiktik reklam
+  - tiktok reklam
 ---
 ## Neden TikTok?
 
