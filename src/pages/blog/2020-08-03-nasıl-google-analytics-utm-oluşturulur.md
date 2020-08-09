@@ -12,7 +12,7 @@ tags:
   - facebook ütm oluşturucu
   - google analytics kampanyalar
 ---
-![Google UTM Oluşturucu](/img/google-url-oluşturucu.png "Google UTM Oluşturucu")
+![Google UTM Oluşturucu](/img/google-url-oluşturucu.png "Google UTM Oluşturucu")
 
 ## UTM Nedir?
 
