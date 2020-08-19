@@ -6,10 +6,10 @@ description: UTM nedir?  Nasıl Google Analytics için UTM oluşturulur.
 featuredpost: true
 featuredimage: /img/google-url-oluşturucu.png
 tags:
-  - google analytics umm
+  - google analytics utm
   - utm nedir
   - google analytics url oluşturucu
-  - facebook ütm oluşturucu
+  - facebook utm oluşturucu
   - google analytics kampanyalar
 ---
 ![Google UTM Oluşturucu](/img/google-url-oluşturucu.png "Google UTM Oluşturucu")
