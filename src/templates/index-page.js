@@ -77,7 +77,6 @@ IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
   
-,
 }
 
 const IndexPage = ({ data }) => {
