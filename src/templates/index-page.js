@@ -120,7 +120,6 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        tags
         
       }
     }
