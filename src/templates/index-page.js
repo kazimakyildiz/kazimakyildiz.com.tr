@@ -15,9 +15,7 @@ export const IndexPageTemplate = ({
     <div
       className="full-width-image margin-top-0"
       style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
+        backgroundImage: `url(${!!image.childImageSharp ? image.childImageSharp.fluid.src : image})`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
       }}
@@ -35,8 +33,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              'rgb(166, 172, 175) 0.5rem 0px 0px, rgb(166, 172, 175) -0.5rem 0px 0px',
+            boxShadow: 'rgb(166, 172, 175) 0.5rem 0px 0px, rgb(166, 172, 175) -0.5rem 0px 0px',
             backgroundColor: 'rgb(166, 172, 175)',
             color: 'white',
             lineHeight: '1',
@@ -48,8 +45,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              'rgb(166, 172, 175 ) 0.5rem 0px 0px, rgb(166, 172, 175) -0.5rem 0px 0px',
+            boxShadow: 'rgb(166, 172, 175 ) 0.5rem 0px 0px, rgb(166, 172, 175) -0.5rem 0px 0px',
             backgroundColor: 'rgb(166, 172, 175)',
             color: 'white',
             lineHeight: '0.75',
@@ -63,12 +59,12 @@ export const IndexPageTemplate = ({
     <div className="column is-12 has-text-centered"></div>
 
 
-                   <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Tüm Yazılar
-                    </Link>
-                  </div>
+    <BlogRoll />
+    <div className="column is-12 has-text-centered">
+      <Link className="btn" to="/blog">
+        Tüm Yazılar
+      </Link>
+    </div>
   </div>
 )
 
