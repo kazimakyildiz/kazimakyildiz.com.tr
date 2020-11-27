@@ -63,6 +63,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/blog">
                 Tüm Yazılar
               </Link>
+              <Link className="navbar-item" to="/google ads">
+                Google Ads
+              </Link>
               <Link className="navbar-item" to="/contact">
                 İletişim
               </Link>
