@@ -85,7 +85,7 @@ googleads.propTypes = {
   }),
 }
 
-export default googleads
+export default google-ads
 
 export const pageQuery = graphql`
   query googleadsByID($id: String!) {
