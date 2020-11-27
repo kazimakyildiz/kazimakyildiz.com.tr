@@ -29,7 +29,7 @@ collections:
 
   - name: "googleads"
     label: "Google Ads"
-    folder: "src/pages/google ads"
+    folder: "src/pages/google-ads"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
