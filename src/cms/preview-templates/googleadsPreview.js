@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { google-adsTemplate } from '../../templates/google-ads'
+import { googleadsTemplate } from '../../templates/googleads'
 
 function googleadsPreview({ entry, widgetFor }) {
   const tags = entry.getIn(['data', 'tags'])
