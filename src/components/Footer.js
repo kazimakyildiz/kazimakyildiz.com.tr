@@ -28,7 +28,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-2">
+              <div className="column is-4">
                 <section>
                   <ul className="menu-list">
                     <li>
