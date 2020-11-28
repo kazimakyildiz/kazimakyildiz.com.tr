@@ -54,7 +54,7 @@ googleadsTemplate.propTypes = {
   helmet: PropTypes.object,
 }
 
-const BlogPost = ({ data }) => {
+const googleads = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
