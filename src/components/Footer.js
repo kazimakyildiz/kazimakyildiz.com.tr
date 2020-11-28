@@ -16,13 +16,13 @@ const Footer = class extends React.Component {
           <img
             src={kawhite}
             alt="Kazım Akyıldız"
-            style={{ height: '6em' }}
+            style={{ weight:'10em' , height: '6em' }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: '80vw' }} className="columns">
-              <div className="column is-12 social">
+              <div className="column is-full social">
                 <a title="facebook" href="https://www.facebook.com/AkyildizKazim" target="_blank">
                   <img
                     src={facebook}
