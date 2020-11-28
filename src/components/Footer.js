@@ -21,7 +21,7 @@ const Footer = class extends React.Component {
         </div>
         <div className="content has-text-left has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
-            <div style={{ maxWidth: '80vw' }} className="columns">
+            <div style={{ maxWidth: '60vw' }} className="columns">
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
