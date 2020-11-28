@@ -22,13 +22,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-left has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: '80vw' }} className="columns">
-              <div className="column is-6">
-                <section className="menu">
-                  <ul className="menu-list">
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4 social">
+              <div className="column is-12 social">
                 <a title="facebook" href="https://www.facebook.com/AkyildizKazim" target="_blank">
                   <img
                     src={facebook}
