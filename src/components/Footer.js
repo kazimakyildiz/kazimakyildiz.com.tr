@@ -26,10 +26,10 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="blog" to="/blog">
+                      <Link className="nav-item" to="/blog">
                         Tüm Yazılar
                       </Link>
-                      <Link className="contact" to="/contact">
+                      <Link className="nav-item" to="/contact">
                         İletişim
                       </Link>
                     </li>
