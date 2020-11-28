@@ -15,4 +15,9 @@ package = "netlify-plugin-image-optim"
   package = "netlify-plugin-algolia-index"
   [plugins.inputs]
       exclude = ['''^\/admin.*''', '''^\/search.*''', '/404.html']
+      [build]
+  publish = "public"
+
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
       
