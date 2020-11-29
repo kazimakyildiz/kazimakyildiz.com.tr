@@ -13,7 +13,7 @@
 package = "netlify-plugin-image-optim"
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
-  [[plugins]]
+[[plugins]]
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
