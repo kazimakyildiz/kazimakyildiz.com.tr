@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kazım Akyıldız
-image: /img/pexels-marc-mueller-380769-3-2.png
+image: /img/pexels-marc-mueller-380769-3-2.webp
 heading: Kazım Akyıldız
 subheading: Performans Pazarlaması
 mainpitch:
