@@ -7,11 +7,3 @@
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
   publish = "public"
-
-
-[[plugins]]
-package = "netlify-plugin-image-optim"
-[[plugins]]
-  package = "netlify-plugin-gatsby-cache"
-[[plugins]]
-  package = "netlify-plugin-submit-sitemap"
