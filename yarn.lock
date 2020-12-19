@@ -10824,7 +10824,7 @@
   "resolved" "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   "version" "2.6.2"
 
-"netlify-cms-app@^2.14.5", "netlify-cms-app@^2.14.6", "netlify-cms-app@^2.9.0":
+"netlify-cms-app@^2.14.6", "netlify-cms-app@^2.9.0":
   "integrity" "sha512-KGYJELSEGyGcP1Tl7wcMfd2q0F/1wvuSg46GvZAyDarDs1vVWcaN9uwxox2+PKMSIZahYPDNqsgTQi3rbMxrIw=="
   "resolved" "https://registry.npmjs.org/netlify-cms-app/-/netlify-cms-app-2.14.6.tgz"
   "version" "2.14.6"
