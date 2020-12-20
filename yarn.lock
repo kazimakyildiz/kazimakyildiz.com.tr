@@ -7256,7 +7256,7 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-"gatsby-plugin-netlify-cms@^4.6.0":
+"gatsby-plugin-netlify-cms@^4.7.0":
   "integrity" "sha512-vP+4tYfMuKS+GVjuOSJkznfDUZcaVV47LQ0Z8Qa1BudJ0R6VivVzD1bpsTJsZXETpUNF+gd+G1F/sa/9fIA38Q=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.7.0.tgz"
   "version" "4.7.0"
