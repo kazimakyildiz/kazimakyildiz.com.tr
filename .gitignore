@@ -1,6 +1,6 @@
 # Project dependencies
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-# https://docs.npmjs.com/cli/shrinkwrap#caveats
+
 node_modules
 .cache/
 # Build directory
