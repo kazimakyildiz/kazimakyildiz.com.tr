@@ -6,7 +6,11 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        indentedSyntax: true
+      },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -75,11 +79,7 @@ module.exports = {
     'gatsby-plugin-netlify', // make sure to keep it last in the array
     
   
-   {
-    resolve: 'gatsby-plugin-sass',
-    options: {
-      indentedSyntax: true
-    },
+   
     },
   ],
     
