@@ -1,4 +1,5 @@
-export const siteMetadata = {
+module.exports = {
+ export const siteMetadata = {
   title: 'Kazım Akyıldız | Performans Pazarlaması',
   description: 'Google Ads ve Facebook Ads ve diğer reklam platformlarındaki yenilikleri ve kendi işimi kolaylaştıran araçları ve deneyimlerimi paylaşıyorum.',
 };
@@ -77,3 +78,4 @@ export const plugins = [
   },
   'gatsby-plugin-netlify',
 ];
+}
