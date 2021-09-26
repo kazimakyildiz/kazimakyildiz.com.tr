@@ -2,8 +2,8 @@ module.exports = {
  siteMetadata = {
   title: 'Kazım Akyıldız | Performans Pazarlaması',
   description: 'Google Ads ve Facebook Ads ve diğer reklam platformlarındaki yenilikleri ve kendi işimi kolaylaştıran araçları ve deneyimlerimi paylaşıyorum.',
-};
-export const plugins = [
+},
+ plugins = [
   'gatsby-plugin-react-helmet',
   {
     // keep as first gatsby-source-filesystem plugin for gatsby image support
