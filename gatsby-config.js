@@ -1,5 +1,5 @@
 module.exports = {
- siteMetadata = {
+ siteMetadata: {
   title: 'Kazım Akyıldız | Performans Pazarlaması',
   description: 'Google Ads ve Facebook Ads ve diğer reklam platformlarındaki yenilikleri ve kendi işimi kolaylaştıran araçları ve deneyimlerimi paylaşıyorum.',
 },
